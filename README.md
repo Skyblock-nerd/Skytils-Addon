@@ -1,7 +1,7 @@
 # Skytils-Addon
 Skytils-Addons is a the same as Skytils just with a few tweaks.
 
-Skytils README.md: 
+Skytils README.md
 A Hypixel Skyblock Utilities mod.
 09/15/2023: If you have a GitHub account, PLEASE CONSIDER STARRING and forking the repository! A new influx of fake respoitories are using botted star and fork counts in order to outrank the search algorithm.
 
